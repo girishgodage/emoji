@@ -3,6 +3,8 @@
 # Emoji Serach App
 [Demo of Emoji Serach](https://girishgodage.github.io/emoji/)
 
+![](/app.png)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
